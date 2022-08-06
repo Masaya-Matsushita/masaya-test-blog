@@ -1,5 +1,6 @@
-# Next.js + TypeScript + Tailwind CSS + ESLint + Prettier
+# Next.js + MicroCMS
 
-```bash
-yarn create next-app --example https://github.com/lightsound/Next.js-TypeScript-TailwindCSS-ESLint-Prettier
-```
+- getStaticProps
+- getStaticPaths
+- env.d.ts
+- api route
